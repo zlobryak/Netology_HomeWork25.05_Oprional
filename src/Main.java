@@ -1,8 +1,8 @@
 
 public class Main {
     public static void main(String[] args) {
-        int income = 100000;
-        int spending = 5000;
+        int income = 44000;
+        int spending = 30000;
 
         System.out.println(income - spending);
 
